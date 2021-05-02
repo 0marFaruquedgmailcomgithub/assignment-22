@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+clearfix::after{
+    content: '';
+    clear: both;
+    display: block;
+}
+
+.mainpage .header-menu{
+    margin:15px 0;
+}
+
+ .main-page .header-menu .div1{
+     width: 38%;
+     height: 1px;
+     float: left;
+
+ }
+ .main-page .header-menu .div2{
+     
+ }
